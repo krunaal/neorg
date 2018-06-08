@@ -1,6 +1,7 @@
 import sys
 
 #"hello how are you.1"
+# just checking how to eddit in github
 
 class NewEvent:
     def __init__(self, date, starttime, venue, serial_n=1, endtime=None):
