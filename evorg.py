@@ -3,6 +3,7 @@ import sys
 #"hello how are you.1"
 # just checking how to eddit in github
 # Just editing
+# 2nd commit from git CLI
 
 class NewEvent:
     def __init__(self, date, starttime, venue, serial_n=1, endtime=None):
