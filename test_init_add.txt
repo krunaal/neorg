@@ -1,3 +1,0 @@
-Hello How are you!
-Just testing how I can add new file to github repo with git commands init and add.
-Happy Coding!
